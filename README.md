@@ -1,4 +1,9 @@
-# <span style="color:blue">Flutter</span>
+
+<div align="center">
+  <img src="img/flutter.jpg" width="100%">
+</div>
+
+# **Flutter**
 
 ### **Why Flutter?**
 
@@ -18,5 +23,3 @@ Flutter's hot reload feature enables quick experimentation, rapid bug fixes, and
 
 Flutter uses the Dart programming language, which is designed for building modern, high-performance applications. Dart's syntax is easy to learn and productive for developers.
 
-# Flutter
-Udemy course
